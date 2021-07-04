@@ -39,4 +39,6 @@ func main() {
 
 	sam.SayHi()
 	mark.SayHi()
+
+	fmt.Printf(sam.name)
 }
